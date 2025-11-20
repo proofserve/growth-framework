@@ -2,6 +2,8 @@
 
 A visual tool for tracking and understanding engineering career development across multiple skill dimensions. This interactive application helps engineers visualize their current skills, set growth targets, and understand what's expected at each career level.
 
+![Engineering Growth Framework](product-screenshot.png)
+
 ## Overview
 
 The Engineering Growth Framework breaks down engineering competencies into **16 distinct tracks** across **4 categories**:
